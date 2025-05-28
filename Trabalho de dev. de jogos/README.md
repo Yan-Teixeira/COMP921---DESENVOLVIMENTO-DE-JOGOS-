@@ -18,5 +18,7 @@ Arqueiro 🏹: Ágil e preciso, especialista em ataques à distância e emboscad
 
 ## 🛠️ Tecnologias Utilizadas
  Linguagem: C
+ 
  Ambiente: Terminal (CLI)
+ 
  Lógica de fluxo: Sistema de decisões condicionais e caminhos narrativos distintos
