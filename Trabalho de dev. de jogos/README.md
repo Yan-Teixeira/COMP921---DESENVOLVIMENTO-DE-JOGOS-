@@ -10,11 +10,11 @@ O jogo é estruturado em narrativas de múltipla escolha. A cada situação, o j
 ## 🛡️ Classes Disponíveis
 O jogador poderá escolher entre três classes, cada uma com habilidades únicas:
 
--Mago 🔮: Mestre dos elementos, com poderes mágicos destrutivos e capacidade de manipular o ambiente.
+Mago 🔮: Mestre dos elementos, com poderes mágicos destrutivos e capacidade de manipular o ambiente.
 
--Guerreiro ⚔️: Combatente corpo a corpo, forte e resistente, ideal para confrontos diretos.
+Guerreiro ⚔️: Combatente corpo a corpo, forte e resistente, ideal para confrontos diretos.
 
--Arqueiro 🏹: Ágil e preciso, especialista em ataques à distância e emboscadas estratégicas.
+Arqueiro 🏹: Ágil e preciso, especialista em ataques à distância e emboscadas estratégicas.
 
 ## 🛠️ Tecnologias Utilizadas
  Linguagem: C
